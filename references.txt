@@ -2,7 +2,7 @@ Authors: Hanwei Li and Evan Kuo
 
 	Milestone 1 Part B:
 
-		1. Quick Start Guide to Dart Programming
+		1. The Dart Programming Language
 		2. https://dart.dev/tutorials
 		3. https://dart.dev/guides
 		4. https://www.reddits.com/dartlang
